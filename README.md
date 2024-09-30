@@ -1,5 +1,3 @@
-# Pagerank
-
 # Pagerank Project
 
 In this project, I created a simple search engine for the website <https://www.lawfareblog.com>.
