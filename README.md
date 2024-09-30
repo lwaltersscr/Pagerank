@@ -3,7 +3,7 @@ Lindsey Walters
 
 In this project, I created a simple search engine for the website <https://www.lawfareblog.com>.
 This website provides legal analysis on US national security issues.
-Pagerank is used to return only the most important results from this website in the search engine.
+We use Pagerank to return only the most important results from this website in the search engine.
 
 ## Background
 
